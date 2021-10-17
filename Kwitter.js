@@ -5,4 +5,4 @@ function addUser(){
     
 }
 
-window.location("Kwitter_room.html");
+window.location="Kwitter_room.html";
